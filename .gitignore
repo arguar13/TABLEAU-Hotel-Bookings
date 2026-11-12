@@ -1,0 +1,15 @@
+# Raw data downloaded by data_processing_pipeline.py
+hotel_bookings.csv
+
+# Tableau temporary and recovery files
+~*.twbr
+*.hyper
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Blog drafts
+blog/
